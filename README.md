@@ -2,7 +2,7 @@
 
 <div align=center>
   <h4>:monkey_face:About me</h4>
-  <p>안녕하세요! 프론트엔드 개발자가 되기 위해 공부하고 있는 유은혜입니다!</p>
+ 
 </div>
 
 <div align=center>
@@ -21,16 +21,7 @@
   
 </div>
 
-<div align=center>
-  <h4>🌱 :seedling:GitHub Stats</h4>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yueunhye&layout=compact">
-  <br>
 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yueunhye&show_icons=true&theme=radical)
-
- 
-</div>
 
 <div align=center> 
   <h4>:books: Blog</h4>
